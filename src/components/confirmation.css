@@ -22,9 +22,15 @@ border-radius: 10px;
 border: 0;
 }
 .price-display{
-    font-size: 50px;
+    font-size: 40px;
     margin: 0;
 }
 .padd{
     padding: 9px;
+<<<<<<< HEAD
+=======
+}
+.marg{
+    margin-top: 3px;
+>>>>>>> 35d05da23180970f6501c9ac7c7639205aec92ec
 }
